@@ -1,6 +1,6 @@
 
 ---------------------------------------
-#Phylogeny Tree Construction
+# Sequence2Tree
 ***************************************
 	@ Release Date: 14-July-2016
 
